@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input[type='text'],
+input[type='email'] {
+  font-size: 0.8rem;
+}
+
+input::-webkit-input-placeholder {
+  font-size: 0.8rem;
+}
+
+p {
+  margin-bottom: .4rem !important;
+}
+
+.App {
+  margin: 20px;
+}

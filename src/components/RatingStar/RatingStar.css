@@ -1,0 +1,22 @@
+/* =========================================
+           Rating Stars
+========================================== */
+.form-label {
+    display: none;
+}
+
+.ratingInput {
+    display: none;
+}
+
+.star {
+    cursor: pointer;
+}
+
+.gold-star {
+    fill: gold;
+}
+
+.grey-star {
+    fill: #d8d8d8;
+}
